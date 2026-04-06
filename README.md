@@ -7,9 +7,11 @@
 This script requires NCBI BLAST+ to be installed. Here are some ways you can install it based on your Linux distribution:
 
 For Ubuntu-based distributions
+
     sudo apt install ncbi-blast+
 
 For Arch-based distributions
+
     yay -S blast+-bin
 
 
